@@ -1,8 +1,7 @@
-# TIP
+# EEP
 
 
-Technical Improvement Proposal. We should mimic as appropriate the page setup here. 
-https://github.com/ethereum/EIPs
+Enterprise Ethereum Proposals.
 
 
 ## Contributing
@@ -11,7 +10,7 @@ https://github.com/ethereum/EIPs
 
 ## Current TIPs
 
-|Number	| Title	|Author	| Status |
-|-------|:-----:|:-----:|:------:|
+|Number	| Title	|Type | Author	| Status |
+|-------|:-----:|:-----:|:-----:|:------:|
 
 
