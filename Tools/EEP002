@@ -1,0 +1,23 @@
+Application Proposal ID: EEP002
+Title: Transaction Manager
+Author: Russell Verbeeten
+Discussions-To: russell.verbeeten@consensys.net
+Status: Initiated
+Type: Tools
+Created: 2016-11-22
+Replaces: <Application Proposal number>
+Superseded-By: <Application Proposal number>
+Resolution: <url>
+
+Table of Contents
+    Abstract
+    Motivation
+    Specification
+    Rationale
+    Implementation
+    
+    # Abstract
+    
+    A Transaction manager that can handle the private messages on a consortium sidechain in paralell with the ethereum public chain
+    
+    etc... 
