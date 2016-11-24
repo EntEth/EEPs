@@ -8,7 +8,7 @@ Enterprise Ethereum Proposals.
 
 [Instructions on contributing]
 
-## Current TIPs
+## Current EEPs
 
 |Number	| Title	|Type | Author	| Status |
 |-------|:-----:|:-----:|:-----:|:------:|
