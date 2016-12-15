@@ -19,7 +19,8 @@ To show how that the Boardroom Governance dApp can maintain identity and continu
 
 #Specification
 
-##The existing Rules.sol deployed at 0x397d4fe96fe0716a82161d756c7b23345bbb499d has the following code:
+##The existing Rules.sol has the following code:
+deployed at 0x397d4fe96fe0716a82161d756c7b23345bbb499d 
 ```
 import "Rules.sol";
 import "BoardRoom.sol";
@@ -45,7 +46,7 @@ contract OpenRules is Rules {
   }
 
   function votingWeightOf(address _sender, uint _proposalID) constant returns (uint) {
-    return 1;
+    return 4;
   }
 }
 ```
@@ -74,7 +75,7 @@ contract OpenRules is Rules {
   }
 
   function votingWeightOf(address _sender, uint _proposalID) constant returns (uint) {
-    return 4;
+    return 1;
   }
 }
 ```
