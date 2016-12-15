@@ -1,5 +1,5 @@
 <pre>
-  EEP: 3
+  EEP: 2
   Title: Consortium Chain BFT Algorithm
   Author: Russell Verbeeten
   Status: ACCEPTED 
