@@ -12,5 +12,4 @@ Enterprise Ethereum Proposals.
 
 |Number	| Title	|Type | Author	| Status |
 |-------|:-----:|:-----:|:-----:|:------:|
-
-
+|[2](Protocol/EEP2.md)|Consortium Chain BFT Algorithm|Protocol|Russell Verbeeten|Accepted|
