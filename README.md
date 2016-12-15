@@ -15,5 +15,5 @@ Use the template for EEPs which you an find [here](https://github.com/EntEth/EEP
 |[2](Protocol/EEP2.md)|Consortium Chain BFT Algorithm|Protocol|Shahan Khatchadourian|Accepted|
 |[8](Systems/EEP8.md)|Quorum|System|Good folks at JP Morgan|Accepted|
 |[9](Strategic/EEP9.md)|EEP Template|Strategic|Russell Verbeeten|Completed|
-|[10](Organizational/EEP10.md)|New Rules Contract with Voting Weight 1|Organizational|Howard Wei and Zach Yam|Accepted|
 |[11](Organizational/EEP11.md)|New Rules Contract with Voting Weight 4|Organizational|Nick Dodson|Accepted|
+|[12](Organizational/EEP12.md)|New Rules Contract with Voting Weitht 1|Organizational|Howard Wei and Zach Yam|Accepted|
