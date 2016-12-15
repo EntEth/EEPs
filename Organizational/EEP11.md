@@ -19,7 +19,8 @@ To show how that the Boardroom Governance dApp can maintain identity and continu
 
 #Specification
 
-##The existing Rules.sol deployed at 0x397d4fe96fe0716a82161d756c7b23345bbb499d has the following code:
+##The existing Rules.sol deployed has the following code:
+deployed at 0x64eBea6021eE7b57c31297Df70666601Bf79f5De
 ```
 import "Rules.sol";
 import "BoardRoom.sol";
