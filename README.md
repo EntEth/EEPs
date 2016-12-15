@@ -13,3 +13,4 @@ Use the template for EEPs which you an find [here](https://github.com/EntEth/EEP
 |Number	| Title	|Type | Author	| Status |
 |-------|:-----:|:-----:|:-----:|:------:|
 |[2](Protocol/EEP2.md)|Consortium Chain BFT Algorithm|Protocol|Russell Verbeeten|Accepted|
+|[8](System/EEP8.md)|Quorum|System|Good folks at JP Morgan|Accepted|
