@@ -10,14 +10,14 @@
   Resolution: [url]
 </pre>
 
-==Abstract==
+#Abstract
 
 This is a template for Enterprise Ethereum Proposals (EEPs)
 
-==Motivation==
+#Motivation
 
-==Specification==
+#Specification
 
-==Rationale==
+#Rationale
 
-==Implementation==
+#Implementation
