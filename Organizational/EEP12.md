@@ -15,7 +15,7 @@ This proposal is to update the Boardroom to point to the new rules contract at 0
 
 #Motivation
 
-To show how that the Boardroom Governance dApp can maintain identity and continue operation even as it allows its smart contract system to be updated.
+To show how that the Boardroom Governance dApp can maintain identity and continue operation even as it allows its smart contract system to be changed but not interrupted.
 
 #Specification
 
