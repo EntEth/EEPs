@@ -11,7 +11,7 @@
 
 A new rules.sol contract has been deployed that has voting weight 4.
 The current rules.sol contract has voting weight 1 for all members.
-This proposal is to update the Boardroom to point to the new rules contract at 0x397d4fE96fe0716a82161D756c7b23345bBb499D
+This proposal is to update the Boardroom to point to the new rules contract at 0xeA3544991e47f06CEf20f86b7F42A1b3449aA22f
 
 #Motivation
 
@@ -81,11 +81,11 @@ contract OpenRules is Rules {
 ```
 #Implementation
 
-The new contract was deployed onto Ropsten at: 0x397d4fE96fe0716a82161D756c7b23345bBb499D
+The new contract was deployed onto Ropsten at: 0xeA3544991e47f06CEf20f86b7F42A1b3449aA22f
 
 When creating proposal on Boardroom: 
 * select 'Organizational' proposal type.
 * Keep the proxy address empty.
 * Click Assemble
 * enter 'ChangeRules(address)' in the Solidity Method ABI
-* Enter the new rules contract address:0x397d4fE96fe0716a82161D756c7b23345bBb499D
+* Enter the new rules contract address:0xeA3544991e47f06CEf20f86b7F42A1b3449aA22f
