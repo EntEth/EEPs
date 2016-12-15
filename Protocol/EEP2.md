@@ -1,7 +1,7 @@
 <pre>
   EEP: 2
   Title: Consortium Chain BFT Algorithm
-  Author: Russell Verbeeten
+  Author: Shahan Khatchadourian
   Status: ACCEPTED 
   Type: Protocol
   Created: 2016-12-14
