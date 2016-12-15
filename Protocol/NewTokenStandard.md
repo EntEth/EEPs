@@ -1,12 +1,22 @@
-## Title
+<pre>
+  EEP: #
+  Title: Consortium Chain BFT Algorithm
+  Author: Russell Verbeeten
+  Status: ACCEPTED 
+  Type: Protocol
+  Created: 2016-12-14
+</pre>
 
-New Token Standard
+==Abstract==
 
-## Author
+This is simply an example EEP for demo purposes.
 
-Nick Dodson
+==Motivation==
 
-## Code URL
+With the rise in interest in having reliable permissioned Ethereum-based blockchains between enterprises, there is a need for a more robust byzantine fault tolerant consensus algorithm. 
 
-https://github.com/ethereum/go-ethereum/blob/fed692f67e81bd3937a5efab38f56a9b99d04d41/miner/remote_agent.go#L138
-https://github.com/ethereum/go-ethereum/commit/8c38f8d81529ada04fde4e3d41530aa61b477792
+==Specification==
+
+==Rationale==
+
+==Implementation==
