@@ -20,8 +20,10 @@ To show how that the Boardroom Governance dApp can maintain identity and continu
 #Specification
 
 ##The existing Rules.sol deployed at 0x397d4fe96fe0716a82161d756c7b23345bbb499d has the following code:
+```
 import "Rules.sol";
 import "BoardRoom.sol";
+
 
 contract OpenRules is Rules {
 /* function hasWon(uint _proposalID) constant returns (bool) {
@@ -46,8 +48,9 @@ contract OpenRules is Rules {
     return 1;
   }
 }
-
+```
 ##The new rules.sol contract we are deploying is.
+```
 import "Rules.sol";
 import "BoardRoom.sol";
 
@@ -74,7 +77,7 @@ contract OpenRules is Rules {
     return 4;
   }
 }
-
+```
 #Implementation
 
 The new contract was deployed onto Ropsten at: 0x64eBea6021eE7b57c31297Df70666601Bf79f5De
