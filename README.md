@@ -6,7 +6,7 @@ Enterprise Ethereum Proposals.
 
 ## Contributing
 
-Use the template for EEPs which you an find [here](https://github.com/EntEth/EEPs/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+Use the template for EEPs which you an find [here](https://github.com/EntEth/EEPs/blob/master/Strategic/EEP9.md)
 
 ## Current EEPs
 
