@@ -81,9 +81,10 @@ contract OpenRules is Rules {
 #Implementation
 
 The new contract was deployed onto Ropsten at: 0x64eBea6021eE7b57c31297Df70666601Bf79f5De
+
 When creating proposal on Boardroom: 
-*select 'Organizational' proposal type.
-*Keep the proxy address empty.
-*Click Assemble
-*enter 'ChangeRules(address)' in the Solidity Method ABI
-*Enter the new rules contract address:0x64eBea6021eE7b57c31297Df70666601Bf79f5De
+* select 'Organizational' proposal type.
+* Keep the proxy address empty.
+* Click Assemble
+* enter 'ChangeRules(address)' in the Solidity Method ABI
+* Enter the new rules contract address:0x64eBea6021eE7b57c31297Df70666601Bf79f5De
