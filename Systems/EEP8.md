@@ -7,16 +7,14 @@
   Created: 2016-12-31
 </pre>
 
-==Abstract==
+#Abstract
 
 This is simply an example EEP for demo purposes.
 
-==Motivation==
+#Motivation
 Parsing messages between public and private ethereum blockchains involves a system that includes a Transaction Manager...
 
-==Specification==
+#Specification
 https://drive.google.com/file/d/0B42vMkapQi1MSEVaa2tuVEtXZXM/view
 
-==Rationale==
 
-==Implementation==
