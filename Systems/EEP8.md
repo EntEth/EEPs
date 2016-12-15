@@ -2,7 +2,7 @@
   EEP: 8
   Title: Quorum 
   Author: The good folks at J.P. Morgan 
-  Status: Accepted
+  Status: Draft
   Type: System
   Created: 2016-12-31
 </pre>
