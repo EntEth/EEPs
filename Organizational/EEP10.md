@@ -7,17 +7,17 @@
   Created: 2016-12-14
 </pre>
 
-==Abstract==
+== Abstract ==
 
 A new rules.sol contract has been deployed that has voting weight 1.
 The current rules.sol contract has voting weight 4 for all members.
 This proposal is to update the Boardroom to point to the new rules contract at 0x64eBea6021eE7b57c31297Df70666601Bf79f5De
 
-==Motivation==
+== Motivation ==
 
 To show how that the Boardroom Governance dApp can maintain identity and continue operation even as it allows its smart contract system to be updated.
 
-==Specification==
+== Specification ==
 
 ##The existing Rules.sol deployed at 0x397d4fe96fe0716a82161d756c7b23345bbb499d has the following code:
 import "Rules.sol";
@@ -75,7 +75,7 @@ contract OpenRules is Rules {
   }
 }
 
-==Implementation==
+== Implementation ==
 
 The new contract was deployed onto Ropsten at: 0x64eBea6021eE7b57c31297Df70666601Bf79f5De
 When creating proposal on Boardroom: 
