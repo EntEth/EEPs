@@ -2,7 +2,7 @@
   EEP: #14
   Title: Send 1 test eth to Russell
   Author:  Russell Verbeeten
-  Status: Draft
+  Status: Completed
   Type: Strategic
   Created: 2016-12-22
 </pre>
