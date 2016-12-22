@@ -17,3 +17,5 @@ Use the template for EEPs which you an find [here](https://github.com/EntEth/EEP
 |[9](Strategic/EEP9.md)|EEP Template|Strategic|Russell Verbeeten|Completed|
 |[11](Organizational/EEP11.md)|New Rules Contract with Voting Weight 4|Organizational|Nick Dodson|Accepted|
 |[12](Organizational/EEP12.md)|New Rules Contract with Voting Weight 1|Organizational|Howard Wei and Zach Yam|Accepted|
+|[13](Organizational/EEP13.md)|New Rules Contract with Voting Weight 4|Organizational|Zach Yam|Accepted|
+|[14](Strategic/EEP14.md)|Send Money - one test eth - Back to Russell|Strategic|Russell Verbeeten|Completed|
