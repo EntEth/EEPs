@@ -1,0 +1,39 @@
+Application Proposal ID: 001
+Title: Consortium Chain BFT algorithm
+Author: Shahan Khatchadourian, Russell Verbeeten, Bill Gleim, Howard Wei, Zach Yam, Eric Tu, Nick Dodson
+Discussions-To: info@boardroom.to
+Status: Initiated
+Type: Protocol
+Created: 2016-11-22
+Replaces: <Application Proposal number>
+Superseded-By: <Application Proposal number>
+Resolution: <url>
+
+
+Table of Contents
+    Abstract
+    Motivation
+    Specification
+    Rationale
+    Implementation
+    
+    # Abstract
+    
+    This is a test of a proposal as Toronto boardroom team works out the Boardroom governance tool. 
+    
+    # Motivation
+    
+    To reshape digital infrastructure projects throughout the universe
+    
+    # Specification
+    
+    Nothing exists yet.
+    
+    # Rationale
+    
+    Private chains are the first step towards adoption of blockchain technology and the ethereum stack should offer a non-pow BFT consensus algorithm. 
+    
+    # Implementation
+    
+    var *c = 14AB2DC;
+    *c = 17;
